@@ -251,13 +251,13 @@
 <br><br>
 <p align="left">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner&theme=solarized-light"
-        alt="dev-denner languages" />
-    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=dev-denner&show_icons=true&theme=solarized-light"
+        alt="dev-denner" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner&theme=solarized-light"
         alt="dev-denner" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner&theme=solarized-light"
-        alt="dev-denner" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner&theme=solarized-light"
+        alt="dev-denner languages" />
 </p>
