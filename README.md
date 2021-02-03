@@ -31,13 +31,6 @@
             alt="https://www.youtube.com/c/dennerfernandesdasilva" height="30" width="40" />
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dev-denner" alt="dev-denner" />
-    </a>
-</p>
-
 <h3>Languages and Tools:</h3>
 <p>
     <table>
@@ -250,14 +243,20 @@
 </p>
 <br><br>
 <p align="left">
+    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=dev-denner" alt="dev-denner" />
+    </a>
+</p>
+<br>
+<p align="left">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dev-denner&show_icons=true&theme=solarized-light"
+        src="https://github-readme-stats.vercel.app/api?username=dev-denner&show_icons=true"
         alt="dev-denner" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner&theme=solarized-light"
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner"
         alt="dev-denner" />
 </p>
-<p align="center">
+<p align="left">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner&theme=solarized-light"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner"
         alt="dev-denner languages" />
 </p>
