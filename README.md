@@ -247,16 +247,16 @@
         <img src="https://github-profile-trophy.vercel.app/?username=dev-denner" alt="dev-denner" />
     </a>
 </p>
-<br>
-<p align="left">
+<br><p align="left">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=dev-denner&show_icons=true"
         alt="dev-denner" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner"
-        alt="dev-denner" />
+    
 </p>
+
+<!--
 <p align="left">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner"
-        alt="dev-denner languages" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-denner" alt="dev-denner" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-denner" alt="dev-denner languages" />
 </p>
+-->
