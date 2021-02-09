@@ -273,7 +273,6 @@
                         title="wordpress" alt="wordpress" width="40" />
                 </a>
             </td>
-            <td></td>
         </tr>
     </table>
 
