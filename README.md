@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Denner Fernandes</h1>
-<h3>Always learning and always extending help. We are going far because we are not going alone.</h3>
+# Hi 👋, I'm Denner Fernandes
+### Always learning and always extending help. We are going far because we are not going alone.
 
 [![](https://raw.githubusercontent.com/dev-denner/dev-denner/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dev-denner/dev-denner/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -7,10 +7,11 @@
 [![](https://raw.githubusercontent.com/dev-denner/dev-denner/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dev-denner/dev-denner/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h3>Languages and Tools:</h3>
+### Languages and Tools:
+
 <p>
     <table>
-        <tr>
+        <tr style="background: #FFF;">
             <td>
                 <a href="https://angular.io/" target="_blank">
                     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" title="angular"
@@ -90,7 +91,7 @@
                 </a>
             </td>
         </tr>
-        <tr>
+        <tr style="background: #FFF;">
             <td>
                 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
                     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
@@ -159,7 +160,7 @@
             </td>
             <td>
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-                    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" title="mssql" alt="mssql"
+                    <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" title="mssql" alt="mssql"
                         width="78" />
                 </a>
             </td>
@@ -170,7 +171,7 @@
                 </a>
             </td>
         </tr>
-        <tr>
+        <tr style="background: #FFF;">
             <td>
                 <a href="https://nestjs.com/" target="_blank">
                     <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" title="nestjs"
@@ -254,7 +255,8 @@
 
 </p>
 
-<h3>Support:</h3>
+### Support:
+
 <p>
     <a href="https://www.buymeacoffee.com/dev.denner">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" title=""
