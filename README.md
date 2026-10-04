@@ -142,6 +142,14 @@ Faculdade Pitágoras · 2009 - 2011
 
 <img src="https://ghchart.rshah.org/58A6FF/dev-denner" alt="GitHub Contribution Chart" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-denner/dev-denner/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-denner/dev-denner/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dev-denner/dev-denner/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
